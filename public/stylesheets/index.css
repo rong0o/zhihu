@@ -1,0 +1,16 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+.index-zhihu{
+    margin-top: 30px;
+    padding-left: 0px;
+}
+
+.tag-top{
+    padding-bottom: 5px;
+    border-bottom: 2px solid #eee;
+}
+.left-content{
+    padding-left: 0px;
+}
